@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: BIRT ODA-JDBC Bridge Driver
+Bundle-SymbolicName: org.eclipse.birt.report.data.oda.jdbc;singleton:=tr
+ ue
+Bundle-Version: 4.9.0.v202203150031
+Bundle-ClassPath: oda-jdbc.jar,derby.jar
+Bundle-Activator: org.eclipse.birt.report.data.oda.plugin.OdaJdbcPlugin
+Bundle-Vendor: Eclipse BIRT Project
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.2.0,5.0.0)",
+ org.eclipse.datatools.connectivity.oda;bundle-version="[3.2.0,4.0.0)",o
+ rg.junit;bundle-version="3.8.1";resolution:=optional,org.apache.derby;b
+ undle-version="[10.1.2,11.0.0)";resolution:=optional,org.eclipse.datato
+ ols.connectivity.oda.profile;bundle-version="[3.0.7,4.0.0)";resolution:
+ =optional,org.eclipse.birt.report.data.bidi.utils;bundle-version="[2.5.
+ 1,5.0.0)",org.eclipse.birt.core;bundle-version="[2.3.0,5.0.0)"
+Bundle-ActivationPolicy: lazy
+Export-Package: org.eclipse.birt.report.data.oda.i18n;x-friends:="org.ec
+ lipse.birt.report.data.oda.jdbc.tests",org.eclipse.birt.report.data.oda
+ .jdbc,org.eclipse.birt.report.data.oda.jdbc.utils,org.eclipse.birt.repo
+ rt.data.oda.plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Eclipse-BundleShape: dir
+Automatic-Module-Name: org.eclipse.birt.report.data.oda.jdbc
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse/birt.git;pa
+ th="data/org.eclipse.birt.report.data.oda.jdbc";commitId=c69016782a507d
+ 4b86dea93f9622ea2fe22c0d7f
+
+Name: about.html
+SHA-256-Digest: llGIjNfKVI3lnKimqXjLsbXf5D9YSv/vLb8eNs2Pxkk=
+
+Name: plugin.xml
+SHA-256-Digest: NoYhwKh1XE5gIKPkVVI8e7k7QrYakIlDjz2iXk+gtQY=
+
+Name: oda-jdbc.jar
+SHA-256-Digest: Y8+dJpghGw3AqKWV0voEg5aQBJKacxdyng4WP/FTcX8=
+
+Name: drivers/readme.txt
+SHA-256-Digest: 0CBsbddyRvbbHLD0aVlF43x+cVub9kMzDSYAqQrfefI=
+
+Name: schema/driverinfo.exsd
+SHA-256-Digest: O8qxRUOeMwDwIDQmPki94YYzTSA5QgjL2KQ5SrZ/QNg=
+
+Name: plugin.properties
+SHA-256-Digest: vUW2rj60izOJVS9JFKfYanKoTovM6mNc3j0vUuVlGDk=
+
+Name: .options
+SHA-256-Digest: skVOTEtyYY8twbFhloPmKMJTG8zedO9rVGI3W5JX4xg=
+

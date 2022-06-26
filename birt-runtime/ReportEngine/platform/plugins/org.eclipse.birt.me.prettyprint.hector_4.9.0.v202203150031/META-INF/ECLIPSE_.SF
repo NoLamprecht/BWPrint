@@ -1,0 +1,42 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: adlwCsfYQjoQAsK2gvsxlmCWHIF3mclsIJOuzAF8Yz8=
+SHA-256-Digest-Manifest-Main-Attributes: CwTwpkzwfRdcW/IQlYted2TFkBELUKn
+ LG5VLRt5uF78=
+
+Name: lib/cassandra-thrift-1.1.0.jar
+SHA-256-Digest: zGZTJYH03JU95JoJK9T9/kJa5FX8Xx1sN//uOj9kDUY=
+
+Name: about.html
+SHA-256-Digest: IZBR3zaTpBW/z7n0bQtoaVWBlp5WiQorVodMs5NuKXg=
+
+Name: plugin.xml
+SHA-256-Digest: n+ymFTgRDHeCFdsH/0oRiAxACYzUeFapdz1d2bjm2VE=
+
+Name: lib/slf4j-api-1.6.1.jar
+SHA-256-Digest: LN3ZDrIkC7LMOEftZcyo0hQNucXIGBwgOWgbY/6JaWI=
+
+Name: lib/slf4j-license.html
+SHA-256-Digest: frkw3dlWvvTY44pCUvw8m0J7CIbw+xjaaFjvtuS34No=
+
+Name: lib/guava-r09.jar
+SHA-256-Digest: f1YnWOhOQyHORKvPff3bw2PZDB0s9DEAHtWA5A0SVeA=
+
+Name: lib/libthrift-0.14.0.jar
+SHA-256-Digest: ki3vE4ni8Jgk5o8NPQSwMsawb7WGafn+D6UM2LUS0MY=
+
+Name: lib/hector-LICENSE
+SHA-256-Digest: 9AuqGz+XQN5h53SsF4wmsg5xs1Nl1JQTYwBYfvCt89Q=
+
+Name: lib/hector-core-1.1-2.jar
+SHA-256-Digest: fT8i+YYqkOYVUD8ioIAsqVf1ESz76xlFZshcwiprFko=
+
+Name: lib/commons-lang-2.4.jar
+SHA-256-Digest: zdFvfd7iJF3fKDlfQCA7f89MVa5wIUjIRC1ZkqGCFp0=
+
+Name: lib/README.txt
+SHA-256-Digest: ISdxdtKOaaFIpT/igpW9ppOP4FcTgJvlO9Qynud01YA=
+
+Name: lib/slf4j-nop-1.6.1.jar
+SHA-256-Digest: xWSvgBoSyMMFwj43gQZvTzF71ypl/Odgc6ssQ6k7ST4=
+

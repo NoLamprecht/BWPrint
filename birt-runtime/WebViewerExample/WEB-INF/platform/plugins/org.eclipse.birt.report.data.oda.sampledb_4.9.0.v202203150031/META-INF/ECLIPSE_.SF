@@ -1,0 +1,24 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: E/ag9Y0F8DdrjCzcfgMQNYer4L/9WZ2wOP2GfPsKaw8=
+SHA-256-Digest-Manifest-Main-Attributes: j9wo3N8obz16dpge8aAPAtCn4aHfR1D
+ M5cN2NlBLICE=
+
+Name: about.html
+SHA-256-Digest: IZBR3zaTpBW/z7n0bQtoaVWBlp5WiQorVodMs5NuKXg=
+
+Name: plugin.xml
+SHA-256-Digest: eSYCbmdCVpGB9zLClm8sUoYAJzC4BxoIQENkbSabku8=
+
+Name: plugin.properties
+SHA-256-Digest: 5PsUZa6tFmEelzpsFLNE2G8LsjQzRuoAv8QZZRr2/ZM=
+
+Name: db/BirtSample.jar
+SHA-256-Digest: chyHuAqAtbGTCygrvntGN11NBH0UGe196jcc/Jh3RWc=
+
+Name: sampledb.jar
+SHA-256-Digest: DstdVJr959lA/2E5IDYkz/GtAAcT2z+yq1Ibmc9iG+w=
+
+Name: .options
+SHA-256-Digest: uzWySKs1RzV4YvKfYHT1b5Y7BJ4pi9DQCB/JTuBspAg=
+

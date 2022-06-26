@@ -1,0 +1,75 @@
+
+1.
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Unable to derive module descriptor for C:\prog17\BWPrint\birt-runtime\ReportEngine\lib\javax.activation_1.1.0.v201211130549.jar
+Caused by: java.lang.IllegalArgumentException: javax.activation.1.1.0.v201211130549: Invalid module name: '1' is not a Java identifier
+
+ 
+
+2.
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Unable to derive module descriptor for C:\prog17\BWPrint\birt-runtime\ReportEngine\lib\javax.el_2.2.0.v201303151357.jar
+Caused by: java.lang.IllegalArgumentException: javax.el.2.2.0.v201303151357: Invalid module name: '2' is not a Java identifier
+
+
+3.
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Unable to derive module descriptor for C:\prog17\BWPrint\birt-runtime\ReportEngine\lib\javax.inject_1.0.0.v20091030.jar
+Caused by: java.lang.IllegalArgumentException: javax.inject.1.0.0.v20091030: Invalid module name: '1' is not a Java identifier
+
+4.
+
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Unable to derive module descriptor for C:\prog17\BWPrint\birt-runtime\ReportEngine\lib\javax.servlet.jsp_2.2.0.v201112011158.jar
+Caused by: java.lang.IllegalArgumentException: javax.servlet.jsp.2.2.0.v201112011158: Invalid module name: '2' is not a Java identifier
+
+5.
+
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Unable to derive module descriptor for C:\prog17\BWPrint\birt-runtime\ReportEngine\lib\javax.transaction_1.1.1.v201105210645.jar
+Caused by: java.lang.IllegalArgumentException: javax.transaction.1.1.1.v201105210645: Invalid module name: '1' is not a Java identifier
+
+6.
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Unable to derive module descriptor for C:\prog17\BWPrint\birt-runtime\ReportEngine\lib\javax.transaction_1.1.1.v201105210645.jar
+Caused by: java.lang.IllegalArgumentException: javax.transaction.1.1.1.v201105210645: Invalid module name: '1' is not a Java identifier
+
+
+7.
+
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Unable to derive module descriptor for C:\prog17\BWPrint\birt-runtime\ReportEngine\lib\javax.wsdl_1.6.2.v201012040545.jar
+Caused by: java.lang.IllegalArgumentException: javax.wsdl.1.6.2.v201012040545: Invalid module name: '1' is not a Java identifier
+
+8.
+
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Unable to derive module descriptor for C:\prog17\BWPrint\birt-runtime\ReportEngine\lib\javax.xml.bind_2.2.0.v201105210648.jar
+Caused by: java.lang.IllegalArgumentException: javax.xml.bind.2.2.0.v201105210648: Invalid module name: '2' is not a Java identifier
+
+
+9.
+
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Unable to derive module descriptor for C:\prog17\BWPrint\birt-runtime\ReportEngine\lib\javax.xml.stream_1.0.1.v201004272200.jar
+Caused by: java.lang.IllegalArgumentException: javax.xml.stream.1.0.1.v201004272200: Invalid module name: '1' is not a Java identifier
+
+10.
+
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Unable to derive module descriptor for C:\prog17\BWPrint\birt-runtime\ReportEngine\lib\javax.xml_1.3.4.v201005080400.jar
+Caused by: java.lang.IllegalArgumentException: javax.xml.1.3.4.v201005080400: Invalid module name: '1' is not a Java identifier
+
+
+11.
+
+Error occurred during initialization of boot layer
+java.lang.module.FindException: Unable to derive module descriptor for C:\prog17\BWPrint\birt-runtime\ReportEngine\lib\org.w3c.css.sac_1.3.1.v200903091627.jar
+Caused by: java.lang.IllegalArgumentException: org.w3c.css.sac.1.3.1.v200903091627: Invalid module name: '1' is not a Java identifier
+
+12.
+
+
+
+
+

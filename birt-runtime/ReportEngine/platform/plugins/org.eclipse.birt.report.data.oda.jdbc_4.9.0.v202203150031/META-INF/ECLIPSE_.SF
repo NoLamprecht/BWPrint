@@ -1,0 +1,27 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: 7prtzKjnYdjggMIpNCsbbdtpvzaSvlebpYdhgdce67o=
+SHA-256-Digest-Manifest-Main-Attributes: 6teeH2+7OJjhANsMK/ovh0zQFr2XRmf
+ oQk1z6eOwKQs=
+
+Name: about.html
+SHA-256-Digest: IZBR3zaTpBW/z7n0bQtoaVWBlp5WiQorVodMs5NuKXg=
+
+Name: plugin.xml
+SHA-256-Digest: 16BBYsv8vyImVoIQU2uIhZ+aSRw6BFvsHeKrJ2g9Gww=
+
+Name: oda-jdbc.jar
+SHA-256-Digest: mYPwamRIZ94n3flDkgOBf6O7HwxsCnFBYuno8XIoBBQ=
+
+Name: drivers/readme.txt
+SHA-256-Digest: l4blY8icdU8dXPlNnUgww0jK+nKvzh0rZz8aDFqAdMU=
+
+Name: schema/driverinfo.exsd
+SHA-256-Digest: Ic0UIPfVXaQlOdgTLR/vr31EBNLcQgbQOv/YmCa1I3s=
+
+Name: plugin.properties
+SHA-256-Digest: Tg3hzd+YWM8MDVVg6nFNeMYM99BVFZi2T+6hyfwKP1I=
+
+Name: .options
+SHA-256-Digest: aRKsA+LZzOgmbDq8Q5R3bKDv9EjaH7kbaY4N98IrUpg=
+

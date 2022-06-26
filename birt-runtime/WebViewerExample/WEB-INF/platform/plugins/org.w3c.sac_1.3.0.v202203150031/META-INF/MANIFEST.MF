@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: W3C Sac
+Bundle-SymbolicName: org.w3c.sac
+Bundle-Version: 1.3.0.v202203150031
+Bundle-ClassPath: lib/flute.jar
+Export-Package: org.w3c.flute.parser,org.w3c.flute.parser.selectors,org.
+ w3c.flute.util
+Bundle-Vendor: Eclipse BIRT Project
+Require-Bundle: org.w3c.css.sac;bundle-version="[1.3.0,2.0.0)"
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Eclipse-BundleShape: dir
+Automatic-Module-Name: org.w3c.sac
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse/birt.git;pa
+ th="common/org.w3c.sac";commitId=c69016782a507d4b86dea93f9622ea2fe22c0d
+ 7f
+
+Name: about.properties
+SHA-256-Digest: F53HCFLbahfnk9jm9D/Sh1XO3L5ouBVz1UKgu/KnvZw=
+
+Name: about.html
+SHA-256-Digest: W9ggT35Jkat84tHGQxNRRD/Xeh9YWPrj708JjYCzB9s=
+
+Name: about_files/copyright-software-20021231.htm
+SHA-256-Digest: uEi1P1S56j0tCphe/NUSan1pJ3lwASQy32+SFyD88Vk=
+
+Name: about.ini
+SHA-256-Digest: 5PHaEwV4lZ3Tmh8DO6TJWx5zfCakxyW0FhHiJjr5XSY=
+
+Name: eclipse32.png
+SHA-256-Digest: OSRlXgvZ3i3wfVilJGmf0LCWkDaCVPWx7HaW9scdnSY=
+
+Name: lib/flute.jar
+SHA-256-Digest: 94aBbqJjMbB5mUhfENUT4+IsGCZswhcSReMkNqza2Z8=
+
+Name: about_files/copyright-software-20021231_files/base.css
+SHA-256-Digest: vp2tm1lmwaF1u/aNZFttg0tFkmWkBwzJZLSjXrIRR+0=
+
+Name: about.mappings
+SHA-256-Digest: fmg9//qNStV98tf43ZlfqC8zVtNGxtMFjOUvRlMJF88=
+

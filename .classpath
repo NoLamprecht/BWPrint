@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/zulu-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/axis.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/chartengineapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/chartexamplescoreapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/chartitemapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/com.ibm.icu_67.1.0.v20200706-1749.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/commons-cli-1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/coreapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/crosstabcoreapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/dataadapterapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/dataaggregationapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/dataextraction.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/dteapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/emitterconfig.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/engineapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/flute.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/javax.annotation_1.3.5.v20200909-1856.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/javax.xml.rpc_1.1.2.v202203150031.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/js.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/modelapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/modelodaapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/odaconnectivity.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/odadesignapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/org.apache.commons.codec_1.14.0.v20200818-1422.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/org.eclipse.birt.axis.overlay_4.9.0.v202203150031.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/org.eclipse.emf.common_2.24.0.v20220123-0838.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/org.eclipse.emf.ecore.xmi_2.16.0.v20190528-0725.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/org.eclipse.emf.ecore_2.26.0.v20220123-0838.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/prog17/BWPrint/birt-runtime/ReportEngine/lib/scriptapi.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
